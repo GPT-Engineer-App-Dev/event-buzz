@@ -13,6 +13,7 @@ const Index = () => {
           <Link href="#about" _hover={{ textDecoration: "none", color: "blue.300" }}>About</Link>
           <Link href="#contact" _hover={{ textDecoration: "none", color: "blue.300" }}>Contact</Link>
           <Link href="/create-event" _hover={{ textDecoration: "none", color: "blue.300" }}>Create Event</Link>
+          <Link href="/book-tickets" _hover={{ textDecoration: "none", color: "blue.300" }}>Book Tickets</Link>
         </HStack>
       </Flex>
 
